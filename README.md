@@ -2,7 +2,7 @@
 
 E-shop fictif avec Redux.\
 Catalogue de mugs avec ajout au panier.\
-Actualisation du panier avec le nombre d’articles et le prix total.\
+Actualisation du panier avec le nombre d’articles et le prix total.
 
 
 
