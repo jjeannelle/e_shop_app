@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# E-Shop fictif de mugs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+E-shop fictif avec Redux
+Catalogue de mugs avec ajout au panier
+Actualisation du panier avec le nombre d’articles et le prix total
+
+
 
 ## Available Scripts
 
